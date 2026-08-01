@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://siddhi-enterprises.vercel.app/sitemap.xml
